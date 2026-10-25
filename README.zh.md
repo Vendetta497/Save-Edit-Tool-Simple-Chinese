@@ -1,5 +1,5 @@
 # ETS2 Save Edit Tool  
-一款现代且功能强大的存档编辑器，适用于 Euro Truck Simulator 2 (ETS2) 以及后来的 American Truck Simulator (ATS)。  
+一款现代且功能强大的存档编辑器，适用于 欧洲卡车模拟2 (欧卡2) 以及后来的 美洲卡车模拟 (美卡)。  
 当前状态：**0.1 Alpha（开发中）**
 
 ---
